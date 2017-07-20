@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64b7cb74-ad81-45b3-ac85-6b9fa022e9d6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.pdf" afterPath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.synctex.gz" afterPath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.synctex.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.aux" afterPath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.aux" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.log" afterPath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.tex" afterPath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.toc" afterPath="$PROJECT_DIR$/../LaTex/LaTex_doc_practice.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Code.py" afterPath="$PROJECT_DIR$/Python_Code.py" />
-    </list>
+    <list default="true" id="64b7cb74-ad81-45b3-ac85-6b9fa022e9d6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/Python_Code.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="101">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -50,8 +41,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-278" />
-    <option name="y" value="129" />
+    <option name="y" value="40" />
     <option name="width" value="1346" />
     <option name="height" value="701" />
   </component>
@@ -258,8 +248,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-278" y="129" width="1346" height="701" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="40" width="1346" height="701" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -311,6 +300,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -329,14 +328,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="1017" column="0" lean-forward="false" selection-start-line="1017" selection-start-column="0" selection-end-line="1017" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
