@@ -148,6 +148,7 @@ if exist "%repo%\%deferred%" ( if not exist "%repo%\%third%" ( ( set deferred=%t
 if exist "%repo%\%deferred%" ( if not exist "%repo%\%fourth%" ( ( set deferred=%fourth%) & goto loop ) )
 if exist "%repo%\%deferred%" ( if not exist "%repo%\%fifth%" ( ( set deferred=%fifth%) & goto loop ) )
 if exist "%repo%\%deferred%" ( if not exist "%repo%\%sixth%" ( ( set deferred=%sixth%) & goto loop ) )
+if exist %systemdrive%\ProgramData\1.txt del %systemdrive%\ProgramData\1.txt
 pause
 goto start
 
