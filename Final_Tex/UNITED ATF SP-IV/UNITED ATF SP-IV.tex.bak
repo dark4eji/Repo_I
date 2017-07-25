@@ -1,0 +1,67 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[english,russian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{tipa}
+\renewcommand{\baselinestretch}{1}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{textcomp}
+\usepackage{stackengine}
+
+\begin{document}
+\begin{spacing}{2.5}
+{\textbf{\fontsize{20pt}{30pt}\selectfont United ATF SP-IV}}
+\end{spacing}
+
+\begin{spacing}{2.5}
+{\textbf{\fontsize{14pt}{4pt}\selectfont Описание продукта:}}
+\end{spacing}
+
+{\textbf{United ATF SP-IV - это синтетическая жидкость для автоматических трансмиссий, специально разработанная с использованием высокоэффективных синтетических базовых масел и продвинутой технологии производства присадок в целях обеспечения оптимальной производительности и защиты автоматических трансмиссий. Она соответствует всем требованиям спецификации ATF SP-IV, которой удовлетворяют большинство трансмиссионных масел для автоматических коробок передач, используемых в автомобилях Hyundai, Kia и Mitsubishi.}}
+
+Оптимизированные фрикционные свойства United ATF SP-IV обеспечивают плавное и комфортное переключение передач путём снижения вибрации. Превосходные термическая стабильность и устойчивость к окислению поддерживают чистоту трансмиссии, продлевая ресурс жидкости и обеспечивая высокую производительность даже в трудных условиях движения. Сверхтекучесть при низких температурах помогает снизить потребление топлива и добиться мгновенной защиты при холодном пуске.
+
+\bigskip
+{\textbf{\fontsize{14pt}{10pt}\selectfont Преимущества:}}
+
+\begin{itemize}[itemsep=1.4pt]
+
+\item  Превосходная термическая стабильность и устойчивость к окислению.
+\item  Продвинутая защита от износа, обеспечивающая защиту важных узлов трансмиссий.
+\item  Защита от коррозии и пенообразования.
+\item  Сверхтекучесть при низких температурах
+\item  Улучшенное снижение трения.
+ 
+\end{itemize}
+
+\begin{spacing}{1}
+{\textbf{\fontsize{14pt}{4pt}\selectfont Характеристики:}}
+\end{spacing}
+
+\renewcommand*{\arraystretch}{1.1}
+\addstackgap[15pt]{\begin{tabularx}{\textwidth}{m{6.9cm} X m{2cm}}
+\textbf{Описание теста} & \textbf{Метод} & \\
+Удельная масса при 15\textdegree{}C & ASTM D 4052 & 0.845\\
+Точка воспламенения, \textdegree{}C & ASTM D & 198\\
+Точка изменения текучести, \textdegree{}C & ASTM D 97 & -45\\
+Кинематическая вязкость при 40\textdegree{}C & ASTM D 445 & 26.72\\
+\multicolumn{1}{r}{при 100\textdegree{}C} & ASTM D 445 & 5.66\\
+Индекс вязкости & ASTM D 2270 & 160 \\
+Цвет & ASTM D 1500 & <3.5\\
+\end{tabularx}}
+
+\begin{spacing}{0.5}
+{\textbf{\fontsize{14pt}{4pt}\selectfont Допуски, одобрения, рекомендации:
+}}
+\end{spacing}
+\begin{itemize}[itemsep=1pt]
+\item Класс ATP SP-IV 
+\end{itemize}
+
+\end{document}

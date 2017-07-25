@@ -6,7 +6,7 @@ def introFunc():
 
     def inputInfo():
         
-        inp = input("This program allows you to install the needed SmartPTT build."
+        inp = raw_input("This program allows you to install the needed SmartPTT build."
               "\n-- WARNING --"
               "\n Before using the program for build installing, make sure that you have the needed build in your local repository."
               "\n In case there is no needed build, copy it using the program downloader and then use the build for further work."
@@ -34,31 +34,23 @@ def introFunc():
 
         if inputVersion ==  possibleVariants[4]:
 
-            print(subprocess.Popen('explorer "C:\ProgramData\Builds_SmartPTT"') + inputInfo())
+            print(subprocess.Popen('explorer "/usr/home/desktop/"'))
+
+            #screen cleaning is needed here
 
         if inputVersion not in possibleVariants:
 
             def tryAgain():
-                         
-                return "Please try again"
 
-            print(tryAgain())            
+                os.system('clear')
+                print "Please try again"
+                return introFunc()
+
+            return(tryAgain())
         
     return operatingVersion(inputInfo())
 
-print(introFunc())
-
-class secondGateway:
-
-    def __init__(self, versionVariable):
-
-        self.versionVariable = versionVariable
-
-    def configSelecting(self):
-        return self.versionVariable
-
-
-        print("---- VERSION Action " #+ self.versionVariable + " Selection Window ----"
+ print("---- VERSION Action " #+ self.versionVariable + " Selection Window ----"
 	"\n ---- Choose the needed action and enter your answer below ----"
     "\n- To install SmartPTT Enterprise build, enter 'E'."
     "\n- To install SmartPTT Plus build, enter 'P'."
@@ -68,10 +60,11 @@ class secondGateway:
     "\n- To install SmartPTT Developer build, enter 'D'."
 	"\n- To activate Downloader, enter 'DD'")
         confInp = raw_input("enter your answer here: ")
+print(introFunc())
 
-
-ig = initGateway(introFunc())
-sg = secondGateway(ig.operatingVersion)
-print(sg.configSelecting())
 """
 
+       
+
+
+"""

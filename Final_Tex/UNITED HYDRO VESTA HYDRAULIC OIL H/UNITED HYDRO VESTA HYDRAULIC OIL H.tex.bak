@@ -1,0 +1,93 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[english,russian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{tipa}
+\renewcommand{\baselinestretch}{1}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{textcomp}
+\usepackage{stackengine}
+
+\begin{document}
+\begin{spacing}{2.5}
+{\textbf{\fontsize{20pt}{30pt}\selectfont UNITED HYDRO VESTA HYDRAULIC OIL H}}
+\end{spacing}
+
+\begin{spacing}{2.5}
+{\textbf{\fontsize{14pt}{4pt}\selectfont Описание продукта:}}
+\end{spacing}
+
+{\textbf{United Hydro Vesta Hydraulic Oil H - это противоизносное гидравлическое масло с низким содержанием цинка, соответствующее требованиям стандарта Denison HF-0. Данный продукт производится из гидроочищенного базового масла высокой степени очистки с добавлением присадок для гидравлических масел. Он предназначен для использования в гидравлических системах с высокой скоростью подачи жидкости, работающих при средних температурах.}
+
+Присадки, содержащиеся в United Hydro Vesta Hydraulic Oil H, повышают его противоизносные характеристики. Они также препятствуют пенообразованию и обеспечивают эффективную защиту от ржавчины и коррозии в случае контакта с водой.
+
+Масло United Hydro Vesta Hydraulic Oil H пригодно для решений, используемых в оборудовании для подземных шахт, промышленных санитарно-гигиенических узлах и прочих гидравлических системах. 
+
+\bigskip
+{\textbf{\fontsize{14pt}{10pt}\selectfont Преимущества:}}
+
+\begin{itemize}[itemsep=1.4pt]
+
+\item Предотвращает износ.
+\item Защищает от ржавчины и коррозии.
+\item Предотвращает пенообразование.
+\item Является экономичным продуктом.
+ 
+\end{itemize}
+
+\begin{spacing}{1}
+{\textbf{\fontsize{14pt}{4pt}\selectfont Характеристики:}}
+\end{spacing}
+
+\renewcommand*{\arraystretch}{1.1}
+\addstackgap[15pt]{\begin{tabularx}{\textwidth}{m{6.92cm} m{3cm} m{1cm} m{1cm} m{1cm} m{1cm} m{1cm}}
+\textbf{Описание теста} & \textbf{Метод} & \\
+SAE вязкость масла & SAE J 300 & \textbf{10W}\\
+ISO вязкость масла & - & & \textbf{10} & \textbf{15} & \textbf{22} & \textbf{32}\\
+Удельная масса при 15\textdegree{}C & ASTM D 4052 & 0.871 & 0.840 & 0.885 & 0.866 & 0.865\\
+Точка воспламенения, \textdegree{}C & ASTM D 92 & 210 & 170 & 210 & 198 & 210\\
+Точка изменения текучести, \textdegree{}C & ASTM D 97 & -21 & -39 & -27 & -36 & -33\\
+Кинематическая вязкость при 40\textdegree{}C & ASTM D 445 & 35.4 & 10.5 & 139.5 & 22.4 & 31.5\\
+\multicolumn{1}{r}{при 100\textdegree{}C} & ASTM D 445 & 5.87 & 2.80 & 14.7 & 4.38 & 5.4\\
+Индекс вязкости & ASTM D 2270 & 108 & 111 & 105 & 103 & 105\\
+Цвет & ASTM D 1500 & <0.5 & <0.5 & <0.5 & <0.5 & <0.5\\
+\end{tabularx}}
+
+
+{\addstackgap[15pt]{\begin{tabularx}{\textwidth}{m{6.92cm} m{3cm} m{1cm} m{1cm} m{1cm} m{1cm} m{1cm}}
+\textbf{Описание теста} & \textbf{Метод}\\
+ISO вязкость масла & - & \textbf{46} & \textbf{68} & \textbf{100} & \textbf{150} & \textbf{220}\\ 
+Удельная масса при 15\textdegree{}C & ASTM D 4052 & 0.870 & 0.872 & 0.878 & 0.889 & 0.898\\
+Точка воспламенения, \textdegree{}C & ASTM D 92 & 220 & 222 & 228 & 232 & 245  \\
+Точка изменения текучести, \textdegree{}C & ASTM D 97 & -30 & -27 & -21 & -15 & -12 \\
+Кинематическая вязкость при 40\textdegree{}C & ASTM D 445 & 46.4 & 68.5 & 97.5 & 150 & 222 \\
+\multicolumn{1}{r}{при 100\textdegree{}C} & ASTM D 445 & 6.85 & 8.78 & 11.3 & 14.7 & 18.9\\
+Индекс вязкости & ASTM D 2270 & 102 & 100 & 98 & 97 & 96\\
+Цвет & ASTM D 1500 & <0.5 & <0.5 & <0.5 & <0.5 & <0.5\\
+\end{tabularx}}}
+\begin{spacing}{0.5}
+{\textbf{\fontsize{14pt}{4pt}\selectfont Допуски, одобрения, рекомендации:
+}}
+\end{spacing}
+\begin{itemize}[itemsep=1pt]
+\item Denison HF-0
+\item Denison HF-1
+\item Denison HF-2
+\item Гибридные помпы Denison T-6H20C
+\item Одобрено Parker Hannifin France HF-0
+\item DIN 51524 Part I ( HL )
+\item DIN 51524 Part II ( HLP)
+\item DIN 51524 Part III ( HVLP )
+\item Eaton Brochure 03-401-2010
+\item Fives Cincinnati Machine P-68
+\item Fives Cincinnati Machine P-69
+\item Fives Cincinnati Machine P-70
+\end{itemize}
+
+\end{document}
