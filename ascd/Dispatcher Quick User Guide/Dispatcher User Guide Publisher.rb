@@ -63,7 +63,8 @@ loop do
         elsif answer == "NO"
           break
 		  
-        else 'Please, try again'
+        else 
+		  puts 'Please, try again'
         end
      end
     break
@@ -80,8 +81,9 @@ output_folder = "#{driveind}PUBLISHED\\Asc_#{language}"
 mainpath = "'#{language}\\Dispatcher Quick User Guide.adoc'"
 add_attrs = "#{fonts_path} #{pdf_template_path} #{css_template_path}"
 
+system "cls"
+
 # Обращаемся к ОС окружению и публикуем файл
-#system "asciidoctor-pdf -D #{output_folder} #{add_attrs} #{mainpath}"
 system "#{doctype} -D #{output_folder} #{add_attrs} #{mainpath}"
 
 # Пауза для просмотра лога
