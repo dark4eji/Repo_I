@@ -1,0 +1,88 @@
+:MCPS: MOTOTRBO CPS
+
+ifdef::radius[:PROD: Радиус-IP]
+ifndef::radius[:PROD: SmartPTT]
+
+ifeval::["{lang}" == "eng"]
+// Пути к папкам основных разделов
+:Ch1_Topics: Topics\EN\Ch.I_ыыыыыDispatcher_Console_Layout\
+
+:Ch2_Topics: Topics\EN\Ch.II_Console_Usage\
+
+:Ch3_Topics: Topics\EN\Ch.III_Layout_Configuration\
+
+// Инфраструктура
+
+:CHAPTER: Chapter
+
+:TOCNAME: Table of Contents
+
+//Общие переменные
+
+:DISP: {PROD} Dispatcher
+
+:SERV: {PROD} Radio Server
+
+:CONF: {SERV} Configurator
+
+:OPT: Optional:
+
+:FTS: follow these steps:
+
+:PTFA: perform the following actions:
+endif::[]
+
+ifeval::["{lang}" == "rus"]
+:Ch1_Topics: Topics\RU\Ch.I_Dispatcher_Console_Layout\
+
+:Ch2_Topics: Topics\RU\Ch.II_Dispatcher_Console_Layout\
+
+:Ch3_Topics: Topics\RU\Ch.III_Dispatcher_Console_Layout\
+
+:notations: notations.adoc
+
+:TOCNAME: Содержание
+
+:PROD: SmartPTT
+
+:OPT: Опционально:
+
+:FTS: выполните следующие шаги:
+
+:PTFA: выполните следующие действия:
+
+// Переменные диспетчера
+:IV_DISP: Диспетчер {PROD}
+
+:R_DISP: Диспетчера {PROD}
+
+:D_DISP: Диспетчеру {PROD}
+
+:T_DISP: Диспетчером {PROD}
+
+:P_DISP: Диспетчере {PROD}
+
+// Переменные радиосервера
+
+:IV_SERV: радиосервер {PROD}
+
+:R_SERV: радиосервера {PROD}
+
+:D_SERV: радиосерверу {PROD}
+
+:T_SERV: радиосервером {PROD}
+
+:P_SERV: радиосервере {PROD}
+
+// Переменные конфигуратора
+
+:IV_CONF: Конфигуратор {R_SERV}
+
+:R_CONF: Конфигуратора {R_SERV}
+
+:D_CONF: Конфигуратору {R_SERV}
+
+:T_CONF: Конфигуратором {R_SERV}
+
+:P_CONF: Конфигурторе {R_SERV}
+endif::[]

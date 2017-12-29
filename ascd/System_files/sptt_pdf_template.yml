@@ -1,0 +1,162 @@
+font:
+  catalog:
+    Noto Sans:
+      normal:            NotoSans-Regular.ttf
+      bold:              NotoSans-Bold.ttf
+      italic:            NotoSans-Italic.ttf
+      bold_italic:       NotoSans-BoldItalic.ttf
+
+#Global Doc Settings
+
+page:
+    background_color:    ffffff
+    layout:              portrait
+    margin:              [0.96in, 0.72in, 0.72in, 0.72in]
+    size:                Letter
+
+#Brand Colors Settings
+
+brand_blue:
+    font_color:          #008DD2
+
+brand_grey:
+    font_color:          666666
+
+  #Title Page Settings
+
+title_page:
+  order:                 revision, authors, title, subtitle,
+  align:                 right
+
+  title:
+    font_color:          $brand_blue_font_color
+    font_size:           12
+    top:                 30%
+    margin_top:          2pt
+    font_style:          bold
+
+  subtitle:
+    font_color:          $brand_blue_font_color
+    font_size:           32
+    margin_bottom:       0mm
+
+  authors:
+    font_size:           24
+    font_color:          $brand_grey_font_color
+    margin_top:          -2pt
+  revision:
+    font_color:          $brand_grey_font_color
+    font_size:           12
+    margin_top:          80pt
+
+#Headings Settings
+
+heading:
+   h1:
+     font_color:         $brand_blue_font_color
+   h2:
+     font_color:         $brand_blue_font_color
+     font_style:         bold
+   h3:
+     font_color:         $brand_blue_font_color
+     font_style:         bold
+   h4:
+     font_color:         $brand_blue_font_color
+     font_style:         bold
+   h5:
+     font_color:         $brand_blue_font_color
+     font_style:         bold
+   h6:
+     font_color:         $brand_blue_font_color
+     font_style:         bold
+
+base:
+  letter_space:          normal
+  font_color:            #000000
+  font_family:           Noto Sans
+  font_size:             11
+  font_size_small:       11
+  font_size_large:       13
+  line_height:           1.25
+  font_style:            normal
+  align:                 left
+  border_radius:         4
+  border_width:          0.5
+  border_color:          eeeeee
+  vertical_rhythm:       $base_line_height_length
+  horizontal_rhythm:     $base_line_height_length
+
+image:
+  align_default:         left
+  scaled_width_default:  0.5
+
+toc:
+    dot_leader:
+        content:         "."
+
+    h1:                  #Это размер заголовка титульника (header)
+        font_color:      $base_font_color
+        font_style:      bold
+        font_size:       16
+
+    h2:                  # С этого начинается отсчёт
+        font_color:      $base_font_color
+        font_style:      bold
+        font_size:       10
+
+    h3:
+        font_color:      $base_font_color
+    #    font_style:     bold
+        font_size:       10
+
+    h4:
+        font_color:      $base_font_color
+        font_style:      normal
+        font_size:       10
+
+    h5:
+        font_color:      #000000
+        font_style:      normal
+        font_size:       10
+    h6:
+        font_color:      #000000
+        font_style:      normal
+        font_size:       10
+
+header:
+  font_size:             $base_font_size_small
+  font_color:            $base_font_color
+  border_color:          dddddd
+  border_width:          1pt
+  height:                0.75in
+  vertical_align:        bottom
+  line_height:           2.2
+  recto_content:
+        left:            '{chapter-title}'
+        right:           '{page-number}'
+  verso_content:
+        left:            '{chapter-title}'
+        right:           '{page-number}'
+
+footer:
+  font_size:             $header_font_size
+  font_color:            $header_font_color
+  border_color:          $header_border_color
+  border_width:          $header_border_width
+  vertical_align:        top
+  line_height:           $header_line_height
+  height:                0.58in
+  recto_content:
+        left:            '{section-title}'
+        right:           '{titlename}'
+  verso_content:
+        left:            '{section-title}'
+        right:           '{titlename}'
+
+caption:
+    align:               center
+    font_color:          $brand_blue_font_color
+    font_style:          normal
+
+link:
+    text_decoration: dotted

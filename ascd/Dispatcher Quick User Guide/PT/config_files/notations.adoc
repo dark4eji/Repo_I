@@ -1,0 +1,15 @@
+:appendix-caption: Приложение
+:caution-caption: Внимание
+:example-caption: Пример
+:figure-caption: Рисунок
+:important-caption: Важно
+:last-update-label: Последний раз обновлено
+:manname-title: НАЗВАНИЕ
+:note-caption: Примечание
+:table-caption: Таблица
+:tip-caption: Подсказка
+:toc-title: Содержание
+:untitled-label: Без названия
+:version-label: Версия
+:warning-caption: Предупреждение
+:chapter-label: Глава
