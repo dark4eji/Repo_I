@@ -59,8 +59,10 @@ loop do
         if answer == "YES"
           css_template_path = ''
           break
+		  
         elsif answer == "NO"
           break
+		  
         else 'Please, try again'
         end
      end
