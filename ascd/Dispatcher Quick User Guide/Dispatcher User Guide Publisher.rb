@@ -1,3 +1,4 @@
+loop do # Общий цикл, чтобы не перезапускать скрипт каждый раз
 # Проверяем существует ли диск D.
 drive = Dir.exist?('D:')
 
@@ -29,8 +30,10 @@ loop do
 
   # Проверка введённого ответа и назначение конечного значения переменной языка
   if language == "EN" || language == "RU" || language == "PT"
+    system "cls"
     break
   else
+    system "cls"
     puts 'Please, try again' # Значение false возвращающее цикл в начало
   end
 end
@@ -44,6 +47,7 @@ loop do
   if doctype == "PDF"
     doctype = "asciidoctor-pdf"
 	css_template_path = ''
+	system "cls"
     break
 
   elsif doctype == "HTML"
@@ -58,18 +62,22 @@ loop do
 
         if answer == "YES"
           css_template_path = ''
+		  system "cls"
           break
 		  
         elsif answer == "NO"
+		  system "cls"
           break
 		  
         else 
+		  system "cls"
 		  puts 'Please, try again'
         end
      end
     break
 
   else
+    system "cls"
     puts 'Please, try again'
   end
 end
@@ -85,6 +93,5 @@ system "cls"
 
 # Обращаемся к ОС окружению и публикуем файл
 system "#{doctype} -D #{output_folder} #{add_attrs} #{mainpath}"
-
-# Пауза для просмотра лога
-sleep
+system "explorer.exe #{output_folder}"
+end
