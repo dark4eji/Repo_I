@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dac0a822-cb21-4f21-9ccd-b9fc558fcc9b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Build Changer Dev.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/Dictionary.tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/pwd.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Django/mysite/db.sqlite3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Django/mysite/manage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Django/mysite/mysite/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Django/mysite/mysite/settings.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Django/mysite/mysite/urls.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Django/mysite/mysite/wsgi.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF LT (UA6807)/UNITED ATF LT (UA6807).aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF LT (UA6807)/UNITED ATF LT (UA6807).log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF LT (UA6807)/UNITED ATF LT (UA6807).pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF LT (UA6807)/UNITED ATF LT (UA6807).synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF LT (UA6807)/UNITED ATF LT (UA6807).tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF LT (UA6807)/UNITED ATF LT (UA6807).tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-III/UNITED ATF SP-III.aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-III/UNITED ATF SP-III.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-III/UNITED ATF SP-III.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-III/UNITED ATF SP-III.synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-III/UNITED ATF SP-III.tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-III/UNITED ATF SP-III.tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-IV/UNITED ATF SP-IV.aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-IV/UNITED ATF SP-IV.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-IV/UNITED ATF SP-IV.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-IV/UNITED ATF SP-IV.synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-IV/UNITED ATF SP-IV.tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF SP-IV/UNITED ATF SP-IV.tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).dvi" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED ATF Z-1 (UA6807)/UNITED ATF Z-1 (UA6807).tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).dvi" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED CVT - NS 3 (UA6804)/UNITED CVT - NS 3 (UA6804).tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.dvi" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED HYDRO VESTA HYDRAULIC OIL H/UNITED HYDRO VESTA HYDRAULIC OIL H.tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED M2 UNIQUE/UNITED M2 UNIQUE.aux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED M2 UNIQUE/UNITED M2 UNIQUE.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED M2 UNIQUE/UNITED M2 UNIQUE.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED M2 UNIQUE/UNITED M2 UNIQUE.synctex.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED M2 UNIQUE/UNITED M2 UNIQUE.tex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Final_Tex/UNITED M2 UNIQUE/UNITED M2 UNIQUE.tex.bak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/BuildChanger_class.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/BuildChanger_noclass.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Python/Python_Code.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Sphinx/Dictionary.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Sphinx/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Sphinx/make.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Sphinx/source/Main.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Sphinx/source/conf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/12.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/.idea/Asciidoctor PDF.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/Dispatcher Quick User Guide.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/Log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/UI_Tools_Menu.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/asciidoctor_pdf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/pack/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/pack/entw.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/pack/lblw.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor PDF/pack/main_logic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Asciidoctor handle.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Build Changer 1.0.1/Build_main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Build Changer 1.0.1/oldlines.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Calc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/.idea/ChangerDev.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/Build Changer Dev.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/BuildChanger.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/config_selection.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/folder_selector.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/ChangerDev/version_selection.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/.ipynb_checkpoints/Pandas test-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/.ipynb_checkpoints/Tabler-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/.ipynb_checkpoints/Test Env-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/Pandas test.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/Tabler.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/Test Env.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Jup/Untitled.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Python" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/.idea/Topics Adder dev.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/1t.pyw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/Asciidoctor handle.pyw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/AsciidoctorTopics.spec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/AsciidoctorTopics.exe.manifest" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/base_library.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-Analysis.toc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-EXE.toc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-PKG.pkg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-PKG.toc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-PYZ.pyz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-PYZ.toc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out00-Tree.toc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/out01-Tree.toc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/warnAsciidoctorTopics.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/build/AsciidoctorTopics/xref-AsciidoctorTopics.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/dist/AsciidoctorTopics.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/dokumenty_poisk.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Topics Adder dev/topics adder.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/existence_checker.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/existence_checker_last_changed.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/unc_checker.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Игра угадайка/Game 1.0(bug).py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Игра угадайка/Game_edt 1.0.1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ost/Наработка для мультикопирования билда.py" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BC.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pack/version_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pack/config_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="opening_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pack/opening_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pack/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pack/version_class.py" />
+        <option value="$PROJECT_DIR$/pack/config_class.py" />
+        <option value="$PROJECT_DIR$/pack/opening_class.py" />
+        <option value="$PROJECT_DIR$/pack/__init__.py" />
+        <option value="$PROJECT_DIR$/BC.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="670" />
+    <option name="y" value="49" />
+    <option name="width" value="1224" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="build_changer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build_changer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="build_changer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build_changer" type="462c0819:PsiDirectoryNode" />
+              <item name="pack" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BuildChanger" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.BC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dac0a822-cb21-4f21-9ccd-b9fc558fcc9b" name="Default" comment="" />
+      <created>1517333366390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517333366390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/version_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/config_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/opening_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/version_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/config_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/opening_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/config_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/opening_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pack/version_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

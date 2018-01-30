@@ -1,0 +1,1 @@
+__all__ = ['config_class', 'opening_class', 'version_class']

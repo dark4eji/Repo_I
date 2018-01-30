@@ -1,5 +1,0 @@
-asciidoctor: WARNING: Dispatcher Quick User Guide.adoc: line 32: section title out of sequence: expected level 2, got level 3
-asciidoctor: WARNING: Dispatcher Quick User Guide.adoc: line 35: section title out of sequence: expected level 2, got level 3
-asciidoctor: WARNING: Dispatcher Quick User Guide.adoc: line 38: section title out of sequence: expected level 2, got level 3
-asciidoctor: WARNING: topics/INS_Console_Usage.adoc: line 1: section title out of sequence: expected level 2, got level 3
-asciidoctor: WARNING: Dispatcher Quick User Guide.adoc: line 40: invalid style for paragraph: bibliography
