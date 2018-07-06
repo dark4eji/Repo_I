@@ -14,34 +14,15 @@
               <task-config-value name="make4status">*</task-config-value>
             </task-config-group>
             <task-variables>
-              <task-variable id="MAINTITLE" type="text" translate="true">OmegaT</task-variable>
+              <task-variable id="INFO" type="text" translate="true">Computer-Assisted Translation Tool</task-variable>
               <task-variable id="SUBTITLE" type="text" translate="true">User Manual</task-variable>
-              <task-variable id="VERSION" type="text" translate="true">Versio &lt;%VERSION_MAJOR%.&lt;%VERSION_MINOR%.&lt;%VERSION_BUILD%&gt;&gt;&gt;</task-variable>
+              <task-variable id="VERSION" type="text" translate="true">Version &lt;%VERSION_MAJOR%&gt;.&lt;%VERSION_MINOR%&gt;.&lt;%VERSION_BUILD%&gt;</task-variable>
             </task-variables>
           </export-task>
         </export-tasks>
       </export-task-group>
       <export-task-group name="Recent Publishes">
-        <export-tasks>
-          <export-task name="Publish as PDF" format="PDF">
-            <task-config-group name="settings">
-              <task-config-value name="outputfile">OmegaT User Guide.pdf</task-config-value>
-              <task-config-value name="template">..\..\Templates\Template.mnl</task-config-value>
-              <task-config-value name="highlighthotspots">0</task-config-value>
-              <task-config-value name="exportcomments">0</task-config-value>
-              <task-config-value name="exportcommentsdate">36526</task-config-value>
-              <task-config-value name="make4include">PDF</task-config-value>
-              <task-config-value name="make4status">*</task-config-value>
-              <task-config-value name="table_of_contents">Table of Contents</task-config-value>
-            </task-config-group>
-            <task-variables>
-              <task-variable id="MAINTITLE" type="text" translate="true">&lt;%PROD%&gt;</task-variable>
-              <task-variable id="SUBTITLE" type="text" translate="true">User Guide</task-variable>
-              <task-variable id="VERSION" type="text" translate="true">Version &lt;%VERSION_MAJOR%&gt;.&lt;%VERSION_MINOR%&gt;.&lt;%VERSION_BUILD%&gt;</task-variable>
-              <task-variable id="INFO" type="text" translate="true">Computer-Assisted Translation Tool</task-variable>
-            </task-variables>
-          </export-task>
-        </export-tasks>
+        <export-tasks/>
       </export-task-group>
     </export-task-groups>
     <helpwindows>
@@ -178,6 +159,7 @@
     </config-group>
     <variables>
       <variable id="PROD" type="text" translate="true">OmegaT</variable>
+      <variable id="INFO" type="text" translate="true">Computer-Assisted Translation Tool</variable>
     </variables>
     <helpcontext-numbers/>
   </config>
