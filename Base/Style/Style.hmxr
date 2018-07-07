@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<helpproject xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd" version="2.0" isskin="false" isrepository="true">
+  <config>
+    <namespaces/>
+    <styleclasses>
+      <styleclass name="Code Example" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
+      </styleclass>
+      <styleclass name="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-family:Arial; font-size:10pt;</style-set>
+      </styleclass>
+      <styleclass name="Comment" parentclass="Normal" nextclass="Normal" shortcut="0"/>
+      <styleclass name="Heading1" parentclass="Normal" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-size:16pt; font-weight:bold;</style-set>
+      </styleclass>
+      <styleclass name="Image Caption" parentclass="Normal" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-size:8pt; font-weight:bold;</style-set>
+      </styleclass>
+      <styleclass name="Notes" parentclass="Normal" nextclass="Normal" shortcut="0"/>
+      <tablestyleclass name="Default">
+        <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;</style-set>
+      </tablestyleclass>
+    </styleclasses>
+    <config-group name="project">
+      <config-value name="lcid">en-us</config-value>
+      <config-value name="charset">DEFAULT_CHARSET</config-value>
+      <config-value name="deffont">font-family:Tahoma; font-size:10pt; color:#000000;</config-value>
+      <config-value name="searchpath">..\OmegaT User Guide\ENG\</config-value>
+      <config-value name="openchildreadonly">1</config-value>
+      <config-value name="autohelpstart">0</config-value>
+      <config-value name="autohelpincrement">1</config-value>
+      <config-value name="autohelpanchor">0</config-value>
+      <config-value name="tidyxml">1</config-value>
+      <config-value name="historyfiles">0</config-value>
+      <config-value name="historyfilecount">10</config-value>
+      <config-value name="historykeepdeletedfiles">0</config-value>
+      <config-value name="vcsmanuallycheckout">0</config-value>
+    </config-group>
+    <config-group name="html">
+      <config-value name="defaultext">.html</config-value>
+      <config-value name="cssfile">default.css</config-value>
+      <config-value name="fontsizeencoding">1</config-value>
+      <config-value name="fontsizebase">100</config-value>
+      <config-value name="exportmarkersastext">1</config-value>
+      <config-value name="exportstylenames">1</config-value>
+      <config-value name="exportutf8bom">1</config-value>
+      <config-value name="replacecharhyphen">0</config-value>
+      <config-value name="animations">1</config-value>
+      <config-value name="imagelightbox">1</config-value>
+      <config-value name="synctimestamp">1</config-value>
+      <config-value name="syncarchivebit">0</config-value>
+      <config-value name="imagehint">1</config-value>
+      <config-value name="imageconversion">1</config-value>
+      <config-value name="jpgquality">90</config-value>
+      <config-value name="htmlpopup">3</config-value>
+    </config-group>
+    <variables/>
+    <helpcontext-numbers/>
+  </config>
+  <project-files>
+    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
+    <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
+  </project-files>
+</helpproject>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="432883108473853" build="ALL" modified="2018-07-07T03:02:52.286Z" icon="0" href="d_introduction">
+    <caption translate="true">Introduction</caption>
+  </topicref>
+  <topicref type="topic" id="432882020640381" build="ALL" modified="2018-07-07T03:05:21.628Z" icon="0" href="OmegaT-Overview">
+    <caption translate="true">Application Overview</caption>
+    <topicref type="topic" id="432879796727515" build="ALL" modified="2018-07-07T03:07:00.320Z" icon="0" href="Win">
+      <caption translate="true">Win</caption>
+    </topicref>
+    <topicref type="topic" id="432880707273469" build="ALL" modified="2018-07-07T03:07:07.729Z" icon="0" href="Win2">
+      <caption translate="true">Win2</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="432882828563751" build="ALL" modified="2018-07-07T03:05:06.846Z" icon="0" href="d_usage_main">
+    <caption translate="true">Application Usage</caption>
+  </topicref>
+  <topicref type="topic" id="432879727321346" build="ALL" modified="2018-07-07T03:05:37.500Z" icon="0" href="d_layout_main">
+    <caption translate="true">Application Layout Configuration</caption>
+  </topicref>
+</map>
