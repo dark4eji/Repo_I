@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <helpproject xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd" version="2.0" isskin="false" isrepository="false">
   <config>
+    <repository name="Style" href="..\..\Style\Style.hmxr"/>
     <namespaces/>
     <export-task-groups>
       <export-task-group name="OmegaPDF">
@@ -39,22 +40,23 @@
       </helpwindow>
     </helpwindows>
     <styleclasses>
-      <styleclass name="Code Example" nextclass="Normal" shortcut="0">
+      <styleclass name="Code Example" nextclass="Normal" shortcut="0" mode="1">
         <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
         <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
       </styleclass>
-      <styleclass name="Normal" shortcut="0">
+      <styleclass name="Normal" shortcut="0" mode="1">
+        <style-set media="screen" type="para">text-align:justify; margin-top:12px; line-height:1.19;</style-set>
         <style-set media="screen" type="text">font-family:Arial; font-size:10pt;</style-set>
       </styleclass>
-      <styleclass name="Comment" parentclass="Normal" nextclass="Normal" shortcut="0"/>
-      <styleclass name="Heading1" parentclass="Normal" nextclass="Normal" shortcut="0">
+      <styleclass name="Comment" parentclass="Normal" nextclass="Normal" shortcut="0" mode="1"/>
+      <styleclass name="Heading1" parentclass="Normal" nextclass="Normal" shortcut="0" mode="1">
         <style-set media="screen" type="text">font-size:16pt; font-weight:bold;</style-set>
       </styleclass>
-      <styleclass name="Image Caption" parentclass="Normal" nextclass="Normal" shortcut="0">
+      <styleclass name="Image Caption" parentclass="Normal" nextclass="Normal" shortcut="0" mode="1">
         <style-set media="screen" type="text">font-size:8pt; font-weight:bold;</style-set>
       </styleclass>
-      <styleclass name="Notes" parentclass="Normal" nextclass="Normal" shortcut="0"/>
-      <tablestyleclass name="Default">
+      <styleclass name="Notes" parentclass="Normal" nextclass="Normal" shortcut="0" mode="1"/>
+      <tablestyleclass name="Default" mode="1">
         <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;</style-set>
       </tablestyleclass>
     </styleclasses>
@@ -80,6 +82,10 @@
       <config-value name="historyfilecount">10</config-value>
       <config-value name="historykeepdeletedfiles">0</config-value>
       <config-value name="vcsmanuallycheckout">0</config-value>
+      <config-group name="spellcheck">
+        <config-value name="project">0</config-value>
+      </config-group>
+      <config-value name="repositorystyleusage">0</config-value>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -109,6 +115,11 @@
       <config-value name="highlighthotspots">0</config-value>
       <config-value name="exportcomments">0</config-value>
       <config-value name="exportcommentsdate">36526</config-value>
+      <config-value name="embedfonts">1</config-value>
+      <config-value name="embedcollectionstype3">1</config-value>
+      <config-value name="newfontsubsetting">1</config-value>
+      <config-value name="symboltextasglyphs">1</config-value>
+      <config-value name="textasglyphs">0</config-value>
     </config-group>
     <config-group name="html">
       <config-value name="defaultext">.html</config-value>

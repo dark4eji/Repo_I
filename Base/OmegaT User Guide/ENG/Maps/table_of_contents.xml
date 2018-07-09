@@ -1,48 +1,114 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <map xmlns:xsi="http://www.w3.org/2001/XInclude">
-  <topicref type="topic" id="432880248713237" build="ALL" modified="2018-07-07T02:45:06.198Z" icon="0" href="New">
-    <caption translate="true">New</caption>
-    <topicref type="topic" id="432880349894658" build="ALL" modified="2018-07-07T02:48:04.649Z" icon="0" href="New2">
-      <caption translate="true">New</caption>
+  <topicref type="topic" id="432905381170189" build="ALL" modified="2018-07-09T10:01:45.329Z" icon="0">
+    <caption translate="true">First Start</caption>
+    <topicref type="topic" id="432904799186217" build="ALL" modified="2018-07-09T10:02:12.718Z" icon="0" href="i_installing">
+      <caption translate="true">Installing OmegaT</caption>
+    </topicref>
+    <topicref type="topic" id="432903246929564" build="ALL" modified="2018-07-09T10:04:54.249Z" icon="0" href="d_first_start">
+      <caption translate="true">Running OmegaT</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="432882020640381" build="ALL" modified="2018-07-07T03:05:21.628Z" icon="0" href="OmegaT-Overview">
+  <topicref type="topic" id="432882020640381" build="ALL" modified="2018-07-09T09:38:14.543Z" icon="0">
     <caption translate="true">Application Overview</caption>
-    <topicref type="topic" id="432879796727515" build="ALL" modified="2018-07-07T01:42:30.517Z" icon="0" href="ui_properties_window">
-      <caption translate="true">Properties Window</caption>
+    <topicref type="topic" id="432901441800035" build="ALL" modified="2018-07-09T08:32:34.514Z" icon="0" href="d_menu_bar">
+      <caption translate="true">Menu Bar</caption>
     </topicref>
-    <topicref type="topic" id="432880707273469" build="ALL" modified="2018-07-07T01:42:49.210Z" icon="0" href="ui_project_window">
-      <caption translate="true">Project Window</caption>
-      <topicref type="topic" id="432882711460204" build="ALL" modified="2018-07-07T01:48:24.740Z" icon="0" href="Ghjgfhjhgj">
-        <caption translate="true">ghjgfhjhgj</caption>
+    <topicref type="topic" id="432902730490564" build="ALL" modified="2018-07-09T08:32:29.413Z" icon="0" href="d_main_area">
+      <caption translate="true">Main Area</caption>
+      <topicref type="topic" id="432904038491429" build="ALL" modified="2018-07-09T09:41:38.144Z" icon="0" href="ui_panels">
+        <caption translate="true">Panels</caption>
       </topicref>
-      <topicref type="topic" id="432880323258184" build="ALL" modified="2018-07-07T01:47:40.470Z" icon="0" href="Sadfdf">
-        <caption translate="true">sadfdf</caption>
-        <topicref type="topic" id="43286759394341" build="ALL" modified="2018-07-07T01:52:55.704Z" icon="0" href="Ghjgfhjhgj7">
-          <caption translate="true">New Age</caption>
-        </topicref>
-        <topicref type="topic" id="432882049152664" build="ALL" modified="2018-07-07T01:53:00.479Z" icon="0" href="Sdffdsf">
-          <caption translate="true">Fallen Love</caption>
-          <topicref type="topic" id="432879155058327" build="ALL" modified="2018-07-07T01:47:50.795Z" icon="0" href="Sdfsdf">
-            <caption translate="true">sdfsdf</caption>
-          </topicref>
-          <topicref type="topic" id="432878873223459" build="ALL" modified="2018-07-07T01:48:19.296Z" icon="0" href="Ghjhgjhj">
-            <caption translate="true">ghjhgjhj</caption>
-          </topicref>
-        </topicref>
+    </topicref>
+    <topicref type="topic" id="432903910018598" build="ALL" modified="2018-07-09T08:32:21.531Z" icon="0" href="d_status_bar">
+      <caption translate="true">Status Bar</caption>
+    </topicref>
+    <topicref type="topic" id="432905085507939" build="ALL" modified="2018-07-09T08:06:26.920Z" icon="0" href="d_interface">
+      <caption translate="true">Interface</caption>
+      <topicref type="topic" id="432904721453908" build="ALL" modified="2018-07-09T08:01:26.607Z" icon="0" href="Layout">
+        <caption translate="true">Layout</caption>
       </topicref>
+      <topicref type="topic" id="432879796727515" build="ALL" modified="2018-07-09T08:02:52.113Z" icon="0" href="ui_properties_window">
+        <caption translate="true">Project Properties Window</caption>
+      </topicref>
+      <topicref type="topic" id="432902355534925" build="ALL" modified="2018-07-09T07:57:00.753Z" icon="0" href="d_project_files">
+        <caption translate="true">Project Files Window</caption>
+      </topicref>
+      <topicref type="topic" id="432880707273469" build="ALL" modified="2018-07-07T01:42:49.210Z" icon="0" href="ui_project_window">
+        <caption translate="true">Project Window</caption>
+      </topicref>
+      <topicref type="topic" id="432902000811979" build="ALL" modified="2018-07-09T07:32:41.549Z" icon="0" href="d_external_search">
+        <caption translate="true">External Search</caption>
+      </topicref>
+      <topicref type="topic" id="432902270375101" build="ALL" modified="2018-07-09T07:33:00.219Z" icon="0" href="d_repo_mapping">
+        <caption translate="true">Repository Mapping</caption>
+      </topicref>
+      <topicref type="topic" id="432902675793016" build="ALL" modified="2018-07-09T07:33:18.091Z" icon="0" href="d_segmentation">
+        <caption translate="true">Segmentation</caption>
+      </topicref>
+      <topicref type="topic" id="432904337711631" build="ALL" modified="2018-07-09T07:33:32.171Z" icon="0" href="d_file_filters">
+        <caption translate="true">File Filters</caption>
+      </topicref>
+      <topicref type="topic" id="432901215199321" build="ALL" modified="2018-07-09T07:33:55.758Z" icon="0" href="d_exclusions">
+        <caption translate="true">Exclusions</caption>
+      </topicref>
+      <topicref type="topic" id="432902277958847" build="ALL" modified="2018-07-09T07:34:29.118Z" icon="0" href="d_new_project_win">
+        <caption translate="true">New Project Window</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="432903292818538" build="ALL" modified="2018-07-09T08:07:14.789Z" icon="0" href="d_project_structure">
+      <caption translate="true">Project Structure</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="432882828563751" build="ALL" modified="2018-07-07T03:05:06.846Z" icon="0" href="d_usage_main">
+  <topicref type="topic" id="432882828563751" build="ALL" modified="2018-07-09T09:38:17.762Z" icon="0">
     <caption translate="true">Application Usage</caption>
-    <topicref type="topic" id="432881174097078" build="ALL" modified="2018-07-07T01:41:15.885Z" icon="0" href="i_creating_new_project">
-      <caption translate="true">Creating New Project</caption>
+    <topicref type="topic" id="432904967797401" build="ALL" modified="2018-07-09T08:17:46.625Z" icon="0" href="i_opening_project">
+      <caption translate="true">Managing Projects</caption>
+      <topicref type="topic" id="432881174097078" build="ALL" modified="2018-07-07T01:41:15.885Z" icon="0" href="i_creating_new_project">
+        <caption translate="true">Creating New Project</caption>
+      </topicref>
+      <topicref type="topic" id="432901336548435" build="ALL" modified="2018-07-09T07:52:04.588Z" icon="0" href="i_opening_existing_projects">
+        <caption translate="true">Opening Existing Projects</caption>
+      </topicref>
+      <topicref type="topic" id="432904960579575" build="ALL" modified="2018-07-09T08:04:58.223Z" icon="0" href="d_switching_projects">
+        <caption translate="true">Switching Projects</caption>
+      </topicref>
+      <topicref type="topic" id="432902846798999" build="ALL" modified="2018-07-09T07:53:40.330Z" icon="0" href="d_deleting_projects">
+        <caption translate="true">Deleting Projects</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="432904960784007" build="ALL" modified="2018-07-09T08:17:52.471Z" icon="0" href="i_managing_proj_files">
+      <caption translate="true">Managing Project Files</caption>
+      <topicref type="topic" id="432905389782744" build="ALL" modified="2018-07-09T07:49:50.292Z" icon="0" href="i_adding_project_files">
+        <caption translate="true">Adding Files for Translation</caption>
+      </topicref>
+      <topicref type="topic" id="432904045770861" build="ALL" modified="2018-07-09T08:05:35.827Z" icon="0" href="Browsing-Project-Files">
+        <caption translate="true">Browsing Project Contents</caption>
+      </topicref>
+      <topicref type="topic" id="432903723315074" build="ALL" modified="2018-07-09T07:53:09.140Z" icon="0" href="d_deleting_project_files">
+        <caption translate="true">Deleting Project Files</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="43292108070431" build="ALL" modified="2018-07-09T08:08:43.357Z" icon="0" href="Translation">
+      <caption translate="true">Translation</caption>
+      <topicref type="topic" id="432905388256014" build="ALL" modified="2018-07-09T07:47:03.821Z" icon="0" href="d_creating_transl_docs">
+        <caption translate="true">Creating Translated Documents</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="43291452236630" build="ALL" modified="2018-07-09T08:18:27.616Z" icon="0" href="d_managing_glossaries">
+      <caption translate="true">Managing Glossaries</caption>
+      <topicref type="topic" id="432901322955696" build="ALL" modified="2018-07-09T08:09:44.893Z" icon="0" href="d_adding_glossary_entry">
+        <caption translate="true">Adding Glossary Entry</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="432905585062124" build="ALL" modified="2018-07-09T08:18:52.139Z" icon="0" href="i_segmentation_rules">
+      <caption translate="true">Managing Segmentation Rules</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="432879727321346" build="ALL" modified="2018-07-07T03:44:05.274Z" icon="0" href="d_layout_main">
-    <caption translate="true">Application Layout Configuration Sert SD</caption>
-    <topicref type="topic" id="43286528593379" build="ALL" modified="2018-07-07T01:41:32.651Z" icon="0" href="d_changing_layout">
-      <caption translate="true">Chnaging Layout</caption>
+  <topicref type="topic" id="432879727321346" build="ALL" modified="2018-07-09T09:38:20.348Z" icon="0">
+    <caption translate="true">Application Layout Configuration</caption>
+    <topicref type="topic" id="43286528593379" build="ALL" modified="2018-07-09T08:00:53.501Z" icon="0" href="d_changing_layout">
+      <caption translate="true">Changing Layout</caption>
     </topicref>
   </topicref>
 </map>

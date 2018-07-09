@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Jake" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Running OmegaT</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Running OmegaT</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:11pt;" translate="true">Menus are hierarchical lists of commands or options available to users in the current context.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:11pt;" translate="true">Drop-down menus are menus displayed on demand on mouse click or hover. They are normally hidden from view and therefore are an efficient means of conserving screen space. A submenu or cascading menu is a secondary menu displayed on demand from within a menu. They are indicated by an arrow at the end of the submenu label. A menu item is an individual command or option within a menu.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:11pt;" translate="true">Menus are often displayed from a menu bar, which is a list of labeled menu categories typically located near the top of a window. By contrast, a context menu drops down when users right-click on an object or window region that supports a context menu.</text></para>
+  </body>
+</topic>
